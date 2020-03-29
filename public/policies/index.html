@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" sizes="76x76" href="/img/favicon.png">
+	<link rel="icon" type="image/png" href="/img/favicon.png">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>BST 680: Introduction to R</title>
+
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://cdn.rawgit.com/gaborcsardi/r-font/master/rlogo.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/v4-shims.js"></script>
+
+	
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/material-kit.css" rel="stylesheet"/>
+</head>
+
+  
+<body class="profile-page">
+  	<nav class="navbar navbar-transparent navbar-fixed-top navbar-color-on-scroll">
+	    	<div class="container">
+        	
+        	<div class="navbar-header">
+        		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
+            		<span class="sr-only">Toggle navigation</span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+        		</button>
+        		<a class="navbar-brand" href="/">BST 680: Introduction to R</a>
+        	</div>
+
+        	<div class="collapse navbar-collapse" id="navigation-example">
+        		<ul class="nav navbar-nav navbar-right">
+      
+        
+
+        <li class="nav-item">
+          <a href="/">
+            <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+            <span>Home</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="/syllabus">
+            <i class="material-icons">date_range</i>
+            <span>Syllabus</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="/policies">
+            <i class="material-icons">gavel</i>
+            <span>Policies</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="https://rstudio.cloud">
+            <i class="material-icons">cloud_queue</i>
+            <span>RStudio</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="https://github.com/UAB-BST-680">
+            <i class='fab fa-github fa-lg'></i>
+            <span>GitHub</span>
+          </a>
+        </li>
+        
+      
+        
+
+        <li class="nav-item">
+          <a href="https://github.com/Sta199-S18/community/issues">
+            <i class="material-icons">help</i>
+            <span>Help</span>
+          </a>
+        </li>
+        
+      
+        		</ul>
+        	</div>
+    	</div>
+    </nav>
+  <div class="wrapper">
+    <div class="header header-filter" style="background-image: url('/images/environmental-data-science-r4ds.png');">
+    </div>
+		<div class="main main-raised">
+			<div class="container">
+		  	<div class="section text-left">
+		  	  <h2 class="title">Policies</h2>
+	            <h3 id="class">Class:</h3>
+<p>Class time is designed to be as interactive as possible. I will provide high level summaries of the content we are learning, but it is up to you to dig into the ideas by completing assigned readings, primers, and tutorials. Programming is a skill that is best learned by doing, and you should expect each class (except the first lecture) to involve programming.</p>
+<h3 id="diversity--inclusiveness">Diversity &amp; Inclusiveness:</h3>
+<p>It is my goal for students from all diverse backgrounds and perspectives be served by this course. I will strive to make sure that students&rsquo; learning needs are met both in and out of class. The culture of my classroom values diversity as a strength and does not tolerate bullying of any form. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.</p>
+<p>Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.) To help accomplish this:</p>
+<ul>
+<li>If you have a name and/or set of pronouns that differ from those that appear in your official University of Birmingham records, please let me know!</li>
+<li>If you feel like your performance in the class is being impacted by your experiences outside of class, please don&rsquo;t hesitate to reach out and talk with me. I want to be a resource for you. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource.</li>
+<li>I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it.</li>
+</ul>
+<h3 id="how-to-get-help">How to get help:</h3>
+<p>All course discussion will be via GitHub on the <a href="https://github.com/UAB-BST-680/community">UAB-BST-680/community</a> repository. Note that this is a public discussion forum, which means others outside of the course can stumble upon it and help you as well.</p>
+<p>Guidelines for posting questions:</p>
+<ul>
+<li>
+<p>First search existing issues (open or closed) for answers. If the question has already been answered, you&rsquo;re done! If there is an open issue, feel free to contribute to it. Or feel free to open a closed issue if you believe the answer is not satisfactory.</p>
+</li>
+<li>
+<p>Do not post questions asking for solutions to homework. It is okay to ask about specific errors you are dealing with while doing the homework, but not okay to ask broad questions about homework problems.</p>
+<ul>
+<li>
+<p>Good: &ldquo;I am wondering how to position legends with ggplot2&rdquo;</p>
+</li>
+<li>
+<p>Bad: &ldquo;Does anyone know how to do homework Problem 3?&rdquo;</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Give your issue an informative title.</p>
+<ul>
+<li>
+<p>Good: &ldquo;Error: could not find function &ldquo;ggplot&rdquo;&rdquo;</p>
+</li>
+<li>
+<p>Bad: &ldquo;R giving errors&rdquo;, &ldquo;help me!&quot;, “aaaarrrrrgh!”</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Note that you can edit an issue’s title after it&rsquo;s been posted.</p>
+</li>
+<li>
+<p>Format your questions nicely using markdown and code formatting. Preview your issue prior to posting.</p>
+</li>
+<li>
+<p>Where appropriate, provide links to specific files, or even lines within them, in the body of your issue. This will help your helper understand your question. Note that only the teaching team will have access to private repos.</p>
+</li>
+<li>
+<p>(Optional) Tag someone or some group of people. Start by typing the @ symbol and GitHub will generate some good suggestions. You can also type or paste in the GitHub username yourself. Examples: to tag Mine, use <code>@bcjaeger</code>; to tag a class/team mate use their GitHub username.</p>
+</li>
+<li>
+<p>Hit &ldquo;Submit new issue&rdquo; when you&rsquo;re ready to post.</p>
+</li>
+</ul>
+<p>Often it&rsquo;s a lot more pleasant an experience to get your questions answered in person. Make use of office hours, I am here to help!</p>
+<p>When I have announcements for you I will send an email to your UAB (University of Alabama at Birmingham) email address. Please make sure to check your email daily.</p>
+<h3 id="academic-integrity">Academic integrity:</h3>
+<p>UAB is a community dedicated to scholarship, leadership, and service. We are committed to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and nonacademic endeavors, and to protect and promote a culture of integrity. You are expected to follow the <a href="https://www.soph.uab.edu/students/honorcode">UAB School of Public Health Honor Code</a> throughout this course.</p>
+<p><strong>A note on sharing / reusing code:</strong> I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something the course&rsquo;s policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class. You are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team or student.</p>
+<h3 id="course-components">Course components:</h3>
+<h4 id="rstudio-primers">Rstudio Primers:</h4>
+<p>These interactive tutorials will introduce you to the concepts that will be discussed in class exercises. It is absolutely essential for you to complete required readings and primer tutorials in order to get the most out of class time. All Primers are hosted on <a href="https://rstudio.cloud/learn/primers">Rstudio cloud</a>.</p>
+<p><strong>Grading</strong>: Because these primers are critical, I am requiring you send me proof of their completion before the specified due date (see Syllabus). A screenshot of your own computer screen showing that you have completed the required primer materials is all you need to send me. Please be mindful that using another student&rsquo;s computer screen is a violation of the honor code.</p>
+<h4 id="learnr-tutorials">Learnr tutorials</h4>
+<p>I have developed some interactive tutorials to help you get more practice with certain topics in R. I recommend doing each of these tutorials to get a better and deeper understanding of the basic components of R.</p>
+<p><strong>Grading</strong>: These are assigned for extra credit throughout the course and can be turned in by sending me a screenshot of your own completed tutorial. Please be mindful that using another student&rsquo;s computer screen is a violation of the honor code.</p>
+<h4 id="class-sessions">Class sessions:</h4>
+<p>Our classes will almost exclusively be invested in hands-on programming and problem solving in teams. We will generally work on problems that go beyond what you learn in Rstudio Primers, but are slightly less involved than homework problems.</p>
+<h4 id="teams">Teams:</h4>
+<p>To construct functional and diverse teams, you will be asked to complete a short survey to gauge your previous exposure to programming topics. After completing the survey, you will be assigned to teams of 3-4 students - these teams will stay consistent throughout the semester (barring extraordinary circumstances). You will work in these teams during class and on the final project.</p>
+<h4 id="homework">Homework:</h4>
+<p>Beyond the in class activities, you will be assigned larger data analysis tasks throughout the semester. These assignments will be completed <em>individually</em>, but you may discuss the problems with your classmates and team members. For each homework assignment, we will have one class dedicated to questions and hints on how to get started with the problems.</p>
+<p>One homework assignment with the lowest score for each student will be dropped.</p>
+<p><strong>A note on homework problems</strong>: It is my philosophy that homework should present you with problems that require thorough understanding of the concepts covered in class and an additional commitment to pushing yourself beyond what we covered in class. You will often be asked to complete tasks that have a substantially higher degree of complexity than our in-class examples, and you will almost certainly hit a wall and feel as if you are stuck. I am writing about this here because I want you to know it is normal to be stuck and it is okay to do your best and still not completely finish the work. The course homework is designed to challenge you, but it is <em>also</em> designed to ensure you make an excellent grade if you invest plenty of time and effort into the work. You do not have to be a prodigy to succeed; just be patient with yourself and know that the bravest and most motivated students are the ones who ask for help when they need it.</p>
+<h3 id="grading">Grading</h3>
+<p>Your final grade will be based on the following:</p>
+<ul>
+<li>
+<p>Homeworks:</p>
+<ul>
+<li>
+<p>6 assignments will be given, 5 will count toward your final grade.</p>
+</li>
+<li>
+<p>assignments are 15 points each</p>
+</li>
+<li>
+<p>homework accounts for 75% of final grade</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Final project</p>
+<ul>
+<li>
+<p>20 points total</p>
+</li>
+<li>
+<p>15 points for writeup, 5 for in-class presentation.</p>
+</li>
+<li>
+<p>accounts for 15% of final grade</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Class participation</p>
+<ul>
+<li>
+<p>5 points total</p>
+</li>
+<li>
+<p>based on participation in lectures and community forum.</p>
+</li>
+<li>
+<p>accounts for 5% of final grade.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Extra credit</p>
+<ul>
+<li>
+<p>Completion of each learnr tutorial will net you 3 points of extra credit.</p>
+</li>
+<li>
+<p>You can distribute those points however you like, e.g., on homework, the final project, or class participation.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Cumulative numerical averages of 90 - 100 are guaranteed at least an A-, 80 - 89 at least a B-, and 70 - 79 at least a C-, however the exact ranges for letter grades will be determined after the final exam. The more evidence there is that the class has mastered the material, the more generous the curve will be.</p>
+<p>For the homework and final exam write-ups, I will assign points based on:</p>
+<ul>
+<li>
+<p>Organization (3 points)</p>
+</li>
+<li>
+<p>Problem approach and correct solution (10 points)</p>
+</li>
+<li>
+<p>Readability (2 points)</p>
+</li>
+</ul>
+<p>Organization grades are based on the composition of your main .Rmd document and the files kept in your project directory. For example, I should be able to open your project and knit your main .Rmd file without an error. I should also be able to find any relevant datasets and documents in your project directories because you have stored files in well-named locations (i.e., you store your data in a directory called ‘data’, you store any relevant R code in a directory called ‘R’, and you store results in a file called ‘results’).<br>
+Correctness is graded based on whether your answers match the solutions. Notably, your approach must also be correct. For instance, if the question is “what is the mean age of participants in this study?” and your answer is “the mean age is 25 years because that’s what the solution.rds file says”, you aren’t going to get any credit. Similarly, if you get the right answer but your programming approach is incorrect (e.g., the mean age is 25 years because there are 25 rows in the dataset), I will not be able to give you full credit for correctness.</p>
+<p>Readability grades are based on how much work I have to do to understand what your code is doing. This means providing comments in your code that explain <em>why</em> you are doing something (e.g., I am using the mutate function <em>because</em>&hellip;, I am merging these two datasets <em>because</em>&hellip;). In order to make your code as readable as possible, I recommend following the <a href="https://style.tidyverse.org/">tidyverse style guide</a>.</p>
+<h3 id="incomplete-grades">Incomplete Grades</h3>
+<p>The UAB Incomplete Grade Policy states that a temporary grade notation of “I “for incomplete may be requested by the student prior to the end of the term and submitted at the course master’s discretion due to unforeseen circumstances that effect the student’s ability to complete course requirements. Students requesting consideration of an “I” grade must discuss with the course instructor, and agree upon a plan and a schedule for, completion of course requirements. It is the student’s responsibility to initiate this discussion, assure completion of this form and return it to the Office of Student and Academic Services. If no permanent grade is reported by the end of the subsequent term, an “F” will be automatically assigned to replace the “I”. Extension of “I” grades may be granted only upon written request of the course instructor to the associate dean for academic affairs. Complete the <a href="https://www.soph.uab.edu/files/osas/Incomplete_grade.pdf">SOPH Incomplete Grade Request Form</a>.</p>
+<h3 id="accessibility">Accessibility</h3>
+<p>UAB is committed to providing an accessible learning experience for all students.  If you are a student with a disability that qualifies under Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act, and you require accommodations, please contact Disability Support Services for information on accommodations, registration and procedures.  Requests for reasonable accommodations involve an interactive process and consist of a collaborative effort among the student, DSS, faculty and staff.  If you are registered with Disability Support Services, please contact me to discuss accommodations that may be necessary in this course. If you have a disability but have not contacted Disability Support Services, please call 934-4205 or visit their <a href="https://www.uab.edu/students/disability/">website</a>.</p>
+<h3 id="title-ix">Title IX</h3>
+<p>UAB is committed to providing an environment that is free of bias, discrimination, and harassment.  If you have been the victim of sexual discrimination, harassment, misconduct, or assault we encourage you to report the incident. UAB provides several avenues for reporting. Please see UAB&rsquo;s <a href="https://www.uab.edu/titleix/">Title IX Policy</a> and <a href="https://www.uab.edu/policies/content/Pages/UAB-BT-POL-0000052.html">UAB’s Equal Opportunity and Anti-Harassment Policy</a> for more information about Title IX, policy, reporting, protections, resources and supports.</p>
+<h3 id="uab-policies">UAB Policies:</h3>
+<p>To see all the current university-wide policies visit <a href="https://www.uab.edu/policies/Pages/default.html">UAB Policies and Procedures Library</a>.</p>
+<h3 id="uab-student-counseling-services">UAB Student Counseling Services</h3>
+<p>Student Counseling Services offers students of all backgrounds, races, religious beliefs, sexual orientations, gender identities, abilities, ethnicities, and cultures a safe place to discuss and resolve issues that interfere with personal and academic goals. Student Counseling Services recognizes and honors the complex intersectionality of all aspects of a person’s identity and presenting concerns.  All enrolled UAB students are eligible for counseling. Students can schedule an appointment by phone, (205) 934-5816, or in-person at the Student Health and Wellness Center at the LRC, 1714 9th Avenue South. Students should be prepared to tell the intake coordinator why they are seeking counseling.</p>
+<h3 id="professionalism">Professionalism</h3>
+<p>Please refrain from texting or using your computer for anything other than coursework during class.</p>
+
+	      </div>
+      </div>
+		</div>
+    <footer class="footer">
+  <div class="container">
+	  <nav class="pull-left">
+	    <ul>
+	    
+        
+
+        <li>
+          <a href="https://www.soph.uab.edu/bst"><i class="button-icon fa fa-2x fa-map-marker"></i> University of Alabama at Birmingham</a>
+        </li>
+        
+      
+        
+
+        <li>
+          <a href="https://rstudio.cloud/"><i class="icon-rlogo" style="font-size:150%"></i> RStudio</a>
+        </li>
+        
+      
+        
+
+        <li>
+          <a href="https://github.com/UAB-BST-680"><i class="button-icon fa fa-2x fa-github"></i> GitHub</a>
+        </li>
+        
+      
+        
+
+        <li>
+          <a href="/"> </a>
+        </li>
+        
+      
+      </ul>
+    </nav>
+	  <div class="copyright pull-right">
+	    <img src="/img/cc-by.svg"/>
+	  </div>
+  </div>
+</footer>
+	</div>
+</body>
+
+			
+
+	
+	<script src="/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/js/material.min.js"></script>
+
+	
+	<script src="/js/nouislider.min.js" type="text/javascript"></script>
+
+	
+	<script src="/js/bootstrap-datepicker.js" type="text/javascript"></script>
+
+	
+	<script src="/js/material-kit.js" type="text/javascript"></script>
+
+</html>
