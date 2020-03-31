@@ -26,7 +26,7 @@ Diversity &amp;amp; Inclusiveness: It is my goal for students from all diverse b
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/syllabus/</guid>
-      <description>#syllabus_tbl {font-family: &#34;Trebuchet MS&#34;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%;}#syllabus_tbl td, #syllabus_tbl th {border-bottom: 1px solid #ccc;padding: 8px;}#syllabus_tbl tr:nth-child(even){background-color: #f2f2f2;}#syllabus_tbl tr:hover {background-color: #ddd;}#syllabus_tbl th:hover {background-color: #ddd;}#syllabus_tbl th {padding-top: 12px;padding-bottom: 12px;text-align: center;background-color: white;color: black;}#syllabus_tbl td {text-align: center;} Date  Topic  Reading  Primer  Lecture  Homework   May 7  Welcome and class layout        May 9  Logistics - Rstudio/Rmarkdown   Ch.</description>
+      <description>#syllabus_tbl {font-family: &#34;Trebuchet MS&#34;, Arial, Helvetica, sans-serif;border-collapse: collapse;width: 100%;}#syllabus_tbl td, #syllabus_tbl th {border-bottom: 1px solid #ccc;padding: 8px;}#syllabus_tbl tr:nth-child(even){background-color: #f2f2f2;}#syllabus_tbl tr:hover {background-color: #ddd;}#syllabus_tbl th {padding-top: 12px;padding-bottom: 12px;text-align: center;background-color: white;color: black;}#syllabus_tbl td {text-align: center;} Date  Topic  Reading  Primer  Tutorial  Slides  R  Homework   May 7  Welcome and class layout               May 9  Logistics - Cloud/RMarkdown  Ch.</description>
     </item>
     
   </channel>
