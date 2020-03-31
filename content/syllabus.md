@@ -40,9 +40,39 @@ markup: "html"
 
   <tr>
   
+    <th style="border-bottom:hidden" colspan="2" </th>
+  
+    <th style = "border-bottom: hidden; 
+                 padding-bottom:0; 
+                 padding-left:3px; 
+                 padding-right:3px; 
+                 text-align: center;" 
+                 colspan = "2">
+      <div style="border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+        In Class
+      </div>
+    </th>
+    
+    <th style = "border-bottom:hidden; 
+                padding-bottom:0; 
+                padding-left: 3px; 
+                padding-right: 3px; 
+                text-align: center;" 
+                colspan="4" >
+      <div style = "border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+        After Class
+      </div>
+    </th>
+  
+  </tr> <tr>
+  
     <th> Date     </th>
     
-    <th> Topic    </th>
+    <th> Topic </th>
+    
+    <th> Slides  </th>
+    
+    <th> R </th>
     
     <th> Reading  </th>
     
@@ -50,9 +80,6 @@ markup: "html"
     
     <th> Tutorial </th>
     
-    <th> Slides  </th>
-    
-    <th> R </th>
     
     <th> Homework </th>
     
@@ -60,133 +87,114 @@ markup: "html"
   
     <td> May 7 </td>
     
-    <td> Welcome and class layout </td>
-    
-    <td> <i class="fas fa-book"></i> </td>
-    
-    <td> <i class="fas fa-cog"></i> </td>
-    
-    <td> <i class="fab fa-leanpub"></i> </td>
+    <td> Welcome to BST 680 </td>
     
     <td>  
-      <a href="https://uab-bst-680.github.io/Welcome-lecture/#1" title="Welcome Lecture">
+      <a href = "https://uab-bst-680.github.io/Welcome-lecture/#1" 
+         title = "Welcome Lecture">
       <i class="fas fa-desktop"></i>
       </a> 
     </td>
-    
+
     <td> <i class="fas fa-cloud"></i> </td>
     
+    <td>
+      <a href = "https://r4ds.had.co.nz/introduction.html" 
+         title = "R4DS: Chap. 1 & 2. Due on May 9th">
+        <i class = "fas fa-book"> </i>
+      </a>
+    </td>
+    
+    <td> <i class="fas fa-cog"></i> </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1086303" 
+         title = "Email me your screenshot of completion before class on May 9th">
+        <i class="fab fa-leanpub"></i>
+       </a>
+    </td>
+    
     <td> <i class="fas fa-cogs"></i> </td>
+    
     
   </tr> <tr>
   
     <td> May 9 </td>
     
-    <td> Logistics - Cloud/RMarkdown </td>
+    <td> Rstudio and Markdown </td>
     
-    <td>
-      <a href="https://r4ds.had.co.nz/introduction.html" title="R for Data Science">
-      <i class="fas fa-book"></i></a> Ch. 1 & 2
-    </td>
-    
-    <td> <i class="fas fa-cog"></i> </td>
-    
-    <td> 
-      <a href="https://rstudio.cloud/spaces/15174/project/1086303" title="Logistics tutorial">
-      <i class="fab fa-leanpub"></i></a>
-    </td>
-
     <td> <i class="fas fa-desktop"></i>  </td>
     
     <td> 
-      <a href="https://rstudio.cloud/spaces/15174/project/1086674" title="In-class examples">
-      <i class="fas fa-cloud"></i>
+      <a href = "https://rstudio.cloud/spaces/15174/project/1086674" 
+         title = "Examples">
+      <i class = "fas fa-cloud"></i>
       </a> 
     </td>
-
     
+    <td> 
+      <a href = "https://r4ds.had.co.nz/data-visualisation.html" 
+         title = "R4DS: Chapter 3. Due on May 14th">
+        <i class="fas fa-book"></i>
+      </a>
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/learn/primers/1.1" 
+         title = "Data visualization basics. Due May 14">
+        <i class="fas fa-cog"></i>
+      </a> 
+    </td>
+    
+    <td> <i class="fab fa-leanpub"></i> </td>
+
     <td> <i class="fas fa-cogs"></i> </td>
     
-  </tr> <tr>
+  </tr>  <tr>
   
     <td> May 14 </td>
     
     <td> Data visualization basics </td>
     
-    <td> 
-      <a href="https://r4ds.had.co.nz/introduction.html" title="R for Data Science">
-      <i class="fas fa-book"></i></a> Ch. 3
-    </td>
+    <td> <i class="fas fa-desktop"></i>  </td>
     
     <td> 
-      <a href="https://rstudio.cloud/learn/primers/1.1" title="Data visualization basics">
-      <i class="fas fa-cog"></i>
-      </a> 
-    </td>
-    
-    <td> <i class="fab fa-leanpub"></i> </td>
-    
-    <td> <i class="fas fa-desktop"></i> </td>
-    
-    <td> 
-      <a href="https://rstudio.cloud/spaces/15174/project/1048666" title="In-class exercises">
+      <a href = "https://rstudio.cloud/spaces/15174/project/1048666" 
+         title = "Exercises">
       <i class="fas fa-cloud"></i>
       </a> 
     </td>
     
-    <td> <i class="fas fa-cogs"></i> </td>
-    
-  </tr> <tr>
-  
-    <td> May 16 </td>
-    
-    <td> Programming basics </td>
-    
     <td> 
-      <a href="https://r4ds.had.co.nz/workflow-basics.html" title="R for Data Science">
-      <i class="fas fa-book"></i></a> Ch. 4
+      <a href = "https://r4ds.had.co.nz/workflow-basics.html" 
+         title = "R4DS: Chap. 4. Due on May 16">
+      <i class="fas fa-book"></i></a> 
     </td>
     
     <td> 
-      <a href="https://rstudio.cloud/learn/primers/1.2" title="Programming basics">
-      <i class="fas fa-cog"></i></a> 
-    </td>
-    
-    <td> <i class="fab fa-leanpub"> </i> </td>
-
-    <td> <i class="fas fa-desktop"></i> </td>
-
-    <td> 
-      <a href="https://rstudio.cloud/spaces/15174/project/1078437" title="In-class exercises">
-      <i class="fas fa-cloud"></i>
+      <a href = "https://rstudio.cloud/learn/primers/1.2" 
+         title = "Programming basics. Due May 16">
+        <i class="fas fa-cog"></i>
       </a> 
     </td>
     
-    <td> <i class="fas fa-cogs"></i> </td>
-    
-  </tr> <tr>
-  
-    <td> May 21 </td>
-    
-    <td> %>% </td>
-    
-    <td> <i class="fas fa-book"> </i> </td>
-    
-    <td> <i class="fas fa-cog"> </i> </td>
-
-    <td>       
-      <a href="https://rstudio.cloud/spaces/15174/project/1078437" title="In-class exercises">
-      <i class="fab fa-leanpub"> </i>
-      </a>  
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1089762" 
+         title = "Email me your screenshot of completion for 3 points extra credit">
+        <i class="fab fa-leanpub"></i>
+      </a> 
     </td>
-    
-    <td> <i class="fas fa-desktop"></i> </td>
 
-    <td> <i class="fas fa-cloud"></i> </td>
-    
-    <td> <i class="fas fa-cogs"></i> </td>
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1091967" 
+         title = "Due on May 16">
+        <i class="fas fa-cogs"></i>
+      </a> 
+    </td>    
     
   </tr>
+  
+  
   
   
 </table>

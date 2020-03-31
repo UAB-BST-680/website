@@ -11,6 +11,7 @@ Class time is designed to be as interactive as possible. I will provide high lev
 
 It is my goal for students from all diverse backgrounds and perspectives be served by this course. I will strive to make sure that students' learning needs are met both in and out of class. The culture of my classroom values diversity as a strength and does not tolerate bullying of any form. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
 
+
 Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.) To help accomplish this:
 
 - If you have a name and/or set of pronouns that differ from those that appear in your official University of Birmingham records, please let me know!
