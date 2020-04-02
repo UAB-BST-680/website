@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dreamy-bartik-1e70e6.netlify.com/"
 languageCode = "en-us"
 title = "BST 680: Introduction to R"
 theme = "material"
