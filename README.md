@@ -14,5 +14,5 @@ Website address: http://bst680.rbind.io/
 
 # Notes for building the website:
 
-- Colors: Pantone #7A4183
+- Colors: UAB green #006341
   - To change, search & replace in `themes/material/static/css/material-kit.css`
