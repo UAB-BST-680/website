@@ -90,7 +90,7 @@ markup: "html"
     <td> Welcome to BST 680 </td>
     
     <td>  
-      <a href = "https://uab-bst-680.github.io/Welcome-lecture/#1" 
+      <a href = "https://uab-bst-680.github.io/Lecture-00-Welcome/#1" 
          title = "Welcome Lecture">
         <i class="fas fa-laptop"></i>
       </a> 
@@ -123,11 +123,17 @@ markup: "html"
     
     <td> R, Rstudio and RMarkdown </td>
     
-    <td> <i class="fas fa-laptop" style="color:#DDDDDD;"></i>  </td>
+    <td>  
+      <a href = "https://uab-bst-680.github.io/Lecture-01-tools/#1" 
+         title = "Tools lecture">
+        <i class="fas fa-laptop"></i>
+      </a> 
+    </td>
+
     
     <td> 
-      <a href = "https://rstudio.cloud/spaces/15174/project/1086674" 
-         title = "Examples">
+      <a href = "https://rstudio.cloud/spaces/15174/project/1116938" 
+         title = "Exercises">
       <i class = "fas fa-cloud"></i>
       </a> 
     </td>
@@ -156,7 +162,12 @@ markup: "html"
     
     <td> Data visualization basics </td>
     
-    <td> <i class="fas fa-laptop" style="color:#DDDDDD;"></i>  </td>
+    <td>  
+      <a href = "https://uab-bst-680.github.io/Lecture-02-Data_visualization_basics/#1" 
+         title = "ggplot2 lecture">
+        <i class="fas fa-laptop"></i>
+      </a> 
+    </td>
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1048666" 
@@ -283,7 +294,12 @@ markup: "html"
     
     <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
     
-    <td> <i class="fas fa-cogs"></i> </td>
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1110029" 
+         title = "Due on June 4">
+        <i class="fas fa-cogs"></i>
+      </a> 
+    </td> 
     
   
   </tr> <tr>
