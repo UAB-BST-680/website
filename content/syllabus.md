@@ -198,7 +198,7 @@ markup: "html"
 
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1091967" 
-         title = "Due on May 21">
+         title = "Due on May 23">
         <i class="fas fa-cogs"></i>
       </a> 
     </td> 
@@ -209,7 +209,12 @@ markup: "html"
     
     <td> Programming basics </td>
     
-    <td> <i class="fas fa-laptop" style="color:#DDDDDD;"></i> </td>
+    <td>  
+      <a href = "https://uab-bst-680.github.io/Lecture-03-Programming_basics/#1" 
+         title = "ggplot2 lecture">
+        <i class="fas fa-laptop"></i>
+      </a> 
+    </td>
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1078437" 
@@ -218,11 +223,15 @@ markup: "html"
       </a> 
     </td>
     
-    <td> <i class = "fas fa-book" style="color:#DDDDDD;"></i> </td>
+    <td> 
+      <a href = "https://r4ds.had.co.nz/workflow-basics.html" 
+         title = "R4DS: Chap. 5. Due on May 23">
+      <i class = "fas fa-book"></i></a> 
+    </td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/2.1" 
-         title = "Working with data. Due May 21">
+         title = "Working with data, Isolating data with dplyr. Due May 21">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -233,44 +242,18 @@ markup: "html"
     <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
     
   </tr> <tr>
-  
+
     <td> May 21 </td>
-    
-    <td> Pipes and data </td>
-    
-    <td> 
-      <a href = "https://uab-bst-680.github.io/pipes/#1"
-         title = "Pipes lecture"> 
-         <i class="fas fa-laptop"></i> 
-      </a>
-    </td>
-    
-    <td> <i class = "fas fa-cloud" style="color:#DDDDDD;"></i> </a> </td>
-
-    <td> 
-      <a href = "https://r4ds.had.co.nz/workflow-basics.html" 
-         title = "R4DS: Chap. 5. Due on May 23">
-      <i class = "fas fa-book"></i></a> 
-    </td>
-    
-    <td> 
-      <a href = "https://rstudio.cloud/learn/primers/2.2" 
-         title = "Isolating Data with dplyr. Due May 23">
-        <i class="fas fa-cog"></i>
-      </a> 
-    </td>
-
-    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
-    
-    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
-    
-  </tr> <tr>
-
-    <td> May 23 </td>
     
     <td> Isolating data </td>
     
-    <td> <i class="fas fa-laptop" style = "color:#DDDDDD"></i> </td>
+    <td>  
+      <a href = "https://uab-bst-680.github.io/Lecture-04-Isolating_data/#1" 
+         title = "dplyr lecture 1">
+        <i class="fas fa-laptop"></i>
+      </a> 
+    </td>
+
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1096224" 
@@ -294,24 +277,20 @@ markup: "html"
     
     <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
     
-    <td> 
-      <a href = "https://rstudio.cloud/spaces/15174/project/1110029" 
-         title = "Due on June 4">
-        <i class="fas fa-cogs"></i>
-      </a> 
-    </td> 
+    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+    
     
   
   </tr> <tr>
 
-    <td> May 28 </td>
+    <td> May 23 </td>
     
     <td> Transforming data </td>
     
-    <td> 
-      <a href = "https://rstudio.cloud/spaces/15174/project/1101663" 
-         title = "Exercises">
-      <i class="fas fa-cloud"></i>
+    <td>  
+      <a href = "https://uab-bst-680.github.io/Lecture-05-Transforming_data/#1" 
+         title = "dplyr lecture 2">
+        <i class="fas fa-laptop"></i>
       </a> 
     </td>
 
@@ -332,12 +311,16 @@ markup: "html"
     
     <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
     
-    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
-    
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1110029" 
+         title = "Due on June 4">
+        <i class="fas fa-cogs"></i>
+      </a> 
+    </td>
   
   </tr> <tr>
 
-    <td> June 4 </td>
+    <td> May 28 </td>
     
     <td> Data visualization tools </td>
     
