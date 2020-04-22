@@ -85,7 +85,7 @@ markup: "html"
     
   </tr> <tr>
   
-    <td> May 7 </td>
+    <td> May 12 </td>
     
     <td> Welcome to BST 680 </td>
     
@@ -100,7 +100,7 @@ markup: "html"
     
     <td>
       <a href = "https://r4ds.had.co.nz/introduction.html" 
-         title = "R4DS: Chap. 1 & 2. Due on May 9th">
+         title = "R4DS: Chap. 1 & 2.">
         <i class = "fas fa-book"> </i>
       </a>
     </td>
@@ -109,7 +109,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1086303" 
-         title = "Email me your screenshot of completion before class on May 9th">
+         title = "Screenshot of completion due May 14">
         <i class="fab fa-leanpub"></i>
        </a>
     </td>
@@ -119,7 +119,7 @@ markup: "html"
     
   </tr> <tr>
   
-    <td> May 9 </td>
+    <td> May 14, 19 </td>
     
     <td> R, Rstudio and RMarkdown </td>
     
@@ -140,14 +140,14 @@ markup: "html"
     
     <td> 
       <a href = "https://r4ds.had.co.nz/data-visualisation.html" 
-         title = "R4DS: Chapter 3. Due on May 14th">
+         title = "R4DS: Chapter 3">
         <i class="fas fa-book"></i>
       </a>
     </td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/1.1" 
-         title = "Data visualization basics. Due May 14">
+         title = "Data visualization basics. Due May 19">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -158,7 +158,7 @@ markup: "html"
     
   </tr>  <tr>
   
-    <td> May 14 </td>
+    <td> May 21, 26 </td>
     
     <td> Data visualization basics </td>
     
@@ -178,13 +178,13 @@ markup: "html"
     
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-basics.html" 
-         title = "R4DS: Chap. 4. Due on May 16">
+         title = "R4DS: Chap. 4">
       <i class="fas fa-book"></i></a> 
     </td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/1.2" 
-         title = "Programming basics. Due May 16">
+         title = "Programming basics. Due May 28">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -198,14 +198,14 @@ markup: "html"
 
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1091967" 
-         title = "Due on May 23">
+         title = "Due on June 4">
         <i class="fas fa-cogs"></i>
       </a> 
     </td> 
     
   </tr> <tr>
   
-    <td> May 16 </td>
+    <td> May 28, June 2 </td>
     
     <td> Programming basics </td>
     
@@ -225,13 +225,13 @@ markup: "html"
     
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-basics.html" 
-         title = "R4DS: Chap. 5. Due on May 23">
+         title = "R4DS: Chap. 5">
       <i class = "fas fa-book"></i></a> 
     </td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/2.1" 
-         title = "Working with data, Isolating data with dplyr. Due May 21">
+         title = "Working with data, Isolating data with dplyr. Due June 4">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -243,7 +243,7 @@ markup: "html"
     
   </tr> <tr>
 
-    <td> May 21 </td>
+    <td> June 4, 9 </td>
     
     <td> Isolating data </td>
     
@@ -264,13 +264,13 @@ markup: "html"
     
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-scripts.html" 
-         title = "R4DS: Chap. 6. Due on May 28">
+         title = "R4DS: Chap. 6">
       <i class = "fas fa-book"></i></a> 
     </td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/2.3" 
-         title = "Derive Information with dplyr. Due May 28">
+         title = "Derive Information with dplyr. Due June 11">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -283,7 +283,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> May 23 </td>
+    <td> June 11, 16 </td>
     
     <td> Transforming data </td>
     
@@ -293,18 +293,23 @@ markup: "html"
         <i class="fas fa-laptop"></i>
       </a> 
     </td>
-
-    <td> <i class = "fas fa-cloud"></i> </a> </td>
     
     <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1134931" 
+         title = "Exercises">
+      <i class="fas fa-cloud"></i>
+      </a> 
+    </td>
+
+    <td> 
       <a href = "https://r4ds.had.co.nz/exploratory-data-analysis.html" 
-         title = "R4DS: Chap. 7. Due on June 4">
+         title = "R4DS: Chap. 7 & 8">
       <i class = "fas fa-book"></i></a> 
     </td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/3" 
-         title = "Visualize data - ALL modules. Due June 4">
+         title = "Visualize data - ALL modules. Due June 23">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -313,33 +318,264 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1110029" 
-         title = "Due on June 4">
+         title = "Due June 30">
         <i class="fas fa-cogs"></i>
       </a> 
     </td>
   
   </tr> <tr>
 
-    <td> May 28 </td>
+    <td> June 18, 23 </td>
     
     <td> Data visualization tools </td>
     
-    <td> <i class="fas fa-laptop"></i> </td>
-
-    <td> <i class = "fas fa-cloud"></i> </a> </td>
+    <td>  
+      <a href = "https://uab-bst-680.github.io/Lecture-06-visualization_tools/#1" 
+         title = "ggplot2 lecture 2">
+        <i class="fas fa-laptop"></i>
+      </a> 
+    </td>
     
     <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1134931" 
+         title = "Exercises">
+      <i class="fas fa-cloud"></i>
+      </a> 
+    </td>    
+    <td> 
       <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
-         title = "R4DS: Chap. 8. Due on June 6">
+         title = "R4DS: Chap. 12.1 - 12.3">
       <i class = "fas fa-book"></i></a> 
     </td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.1" 
-         title = "Reshape data. Due June 6">
+         title = "Reshape data. Due June 4">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
+    
+    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
+    
+    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+    
+  
+  </tr> <tr>
+
+    <td> June 25, 30 </td>
+    
+    <td> Reshaping data </td>
+    
+    <td>  
+      <a href = "https://uab-bst-680.github.io/lecture-07-reshaping_data/#1" 
+         title = "reshape lecture">
+        <i class="fas fa-laptop"></i>
+      </a> 
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1153963" 
+         title = "Exercises">
+      <i class="fas fa-cloud"></i>
+      </a> 
+    </td>    
+    <td> 
+      <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
+         title = "R4DS: Chap. 12.1 - 12.3">
+      <i class = "fas fa-book"></i></a> 
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/learn/primers/4.2" 
+         title = "Separate and unite. Due June 6">
+        <i class="fas fa-cog"></i>
+      </a> 
+    </td>
+    
+    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
+    
+    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+
+    
+  
+  </tr> <tr>
+
+    <td> July 2, 7 </td>
+    
+    <td> Separate and unite </td>
+    
+    <td>  
+      <i class="fas fa-laptop"></i> 
+    </td>
+    
+    <td> 
+      <i class="fas fa-cloud"></i>
+    </td> 
+    
+    <td> 
+      <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
+         title = "R4DS: Chap. 12.3 - 12.7">
+      <i class = "fas fa-book"></i></a> 
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/learn/primers/4.3" 
+         title = "Join data sets. Due July 9">
+        <i class="fas fa-cog"></i>
+      </a> 
+    </td>
+    
+    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1172856" 
+         title = "Due July 21">
+        <i class="fas fa-cogs"></i>
+      </a> 
+    </td>
+    
+  
+  </tr> <tr>
+
+    <td> July 9, 14 </td>
+    
+    <td> Join data sets </td>
+    
+    <td>  
+      <i class="fas fa-laptop"></i> 
+    </td>
+    
+    <td> 
+      <i class="fas fa-cloud"></i>
+    </td> 
+    
+    <td> 
+      <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
+         title = "R4DS: Chap. 13">
+      <i class = "fas fa-book"></i></a> 
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/learn/primers/5" 
+         title = "Intro to iteration, map, and shortcuts. Due July 21 ">
+        <i class="fas fa-cog"></i>
+      </a> 
+    </td>
+    
+    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
+    
+    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+    
+  
+  </tr> <tr>
+
+    <td> July 16, 21 </td>
+    
+    <td> Iteration, 1 variable </td>
+    
+    <td>  
+      <i class="fas fa-laptop"></i> 
+    </td>
+    
+    <td> 
+      <i class="fas fa-cloud"></i>
+    </td> 
+    
+    <td> 
+      <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
+         title = "R4DS: Chap. 21.1 - 21.6">
+      <i class = "fas fa-book"></i></a> 
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/learn/primers/5" 
+         title = "multiple vectors, due July 23">
+        <i class="fas fa-cog"></i>
+      </a> 
+    </td>
+    
+    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
+    
+    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+    
+  
+  </tr> <tr>
+
+    <td> July 23, 28 </td>
+    
+    <td> Iteration, >1 variable </td>
+    
+    <td>  
+      <i class="fas fa-laptop"></i> 
+    </td>
+    
+    <td> 
+      <i class="fas fa-cloud"></i>
+    </td> 
+    
+    <td> 
+      <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
+         title = "R4DS: Chap. 21.7 - 21.9">
+      <i class = "fas fa-book"></i></a> 
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/learn/primers/5" 
+         title = "List columns, due July 30">
+        <i class="fas fa-cog"></i>
+      </a> 
+    </td>
+    
+    <td> 
+      <a href = "https://rstudio.cloud/learn/primers/6" 
+         title = "E-mail screenshots of completion for 3 points extra credit">
+        <i class="fab fa-leanpub"></i>
+       </a>
+    </td>
+    
+    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+    
+  
+  </tr> <tr>
+
+    <td> July 30 </td>
+    
+    <td> List-columns </td>
+    
+    <td>  
+      <i class="fas fa-laptop"></i> 
+    </td>
+    
+    <td> 
+      <i class="fas fa-cloud"></i>
+    </td> 
+    
+    <td><i class = "fas fa-book" style="color:#DDDDDD;"></i></a></td>
+    
+    <td><i class="fas fa-cog" style="color:#DDDDDD;"></i></td>
+    
+    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
+    
+    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+    
+  
+  </tr> <tr>
+
+    <td> August 4, 7 </td>
+    
+    <td> Final project presentations </td>
+    
+    <td>  
+      <i class="fas fa-laptop"></i> 
+    </td>
+    
+    <td> 
+      <i class="fas fa-cloud"></i>
+    </td> 
+    
+    <td><i class = "fas fa-book" style="color:#DDDDDD;"></i></a></td>
+    
+    <td><i class="fas fa-cog" style="color:#DDDDDD;"></i></td>
     
     <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
     
