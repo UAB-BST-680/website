@@ -5,17 +5,18 @@ markup: "md"
   
 ### Class:
   
-Class time is designed to be as interactive as possible. I will provide high level summaries of the content we are learning, but it is up to you to dig into the ideas by completing assigned readings, primers, and tutorials. Programming is a skill that is best learned by doing, and you should expect each class (except the first lecture) to involve programming.
+Class time is designed to be as interactive as possible. Before class, you are expected to complete primers and readings that will introduce you to the material. At the beginning of class, I will give a brief lecture usually lasting less than 20 minutes. After the lecture, we will break out into groups and work on problems that let you apply the content we are learning. I think many students prefer to learn programming by doing, so most classes will involve programming exercises.
 
 ### Diversity & Inclusiveness:
 
 It is my goal for students from all diverse backgrounds and perspectives be served by this course. I will strive to make sure that students' learning needs are met both in and out of class. The culture of my classroom values diversity as a strength and does not tolerate bullying of any form. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
 
-
 Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.) To help accomplish this:
 
 - If you have a name and/or set of pronouns that differ from those that appear in your official University of Birmingham records, please let me know!
+
 - If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to reach out and talk with me. I want to be a resource for you. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource. 
+
 - I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it.
 
 ### How to get help:
@@ -48,15 +49,15 @@ Guidelines for posting questions:
 
 - Hit "Submit new issue" when you're ready to post.
 
-Often it's a lot more pleasant an experience to get your questions answered in person. Make use of office hours, I am here to help!
+Often it's a lot more pleasant an experience to get your questions answered in person. Make use of office hours (i.e., after class), I am here to help!
 
-When I have announcements for you I will send an email to your UAB (University of Alabama at Birmingham) email address. Please make sure to check your email daily.
+When I have announcements for you I will post them on Canvas. Please make sure to check Canvas daily for announcements.
 
 ### Academic integrity:
 
 UAB is a community dedicated to scholarship, leadership, and service. We are committed to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and nonacademic endeavors, and to protect and promote a culture of integrity. You are expected to follow the [UAB School of Public Health Honor Code](https://www.soph.uab.edu/students/honorcode) throughout this course.
 
-**A note on sharing / reusing code:** I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something the course's policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class. You are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team or student.
+**A note on sharing / reusing code:** I understand that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something the course's policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class. You are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team or student.
 
 ### Course components:
 
@@ -74,7 +75,7 @@ __Grading__: These are assigned for extra credit throughout the course and can b
 
 #### Class sessions:
 
-Our classes will almost exclusively be invested in hands-on programming and problem solving in teams. We will generally work on problems that go beyond what you learn in Rstudio Primers, but are slightly less involved than homework problems. 
+We will work on problems in class that go beyond what you learn in Rstudio Primers, but are slightly less involved than homework problems. Each topic we cover has an associated set of group exercises. I currently don't plan to collect group exercises, but I will start grading them if I sense that students are not engaging with them. 
 
 #### Teams:
 
@@ -86,7 +87,7 @@ Beyond the in class activities, you will be assigned larger data analysis tasks 
 
 One homework assignment with the lowest score for each student will be dropped.
 
-__A note on homework problems__: It is my philosophy that homework should present you with problems that require thorough understanding of the concepts covered in class and an additional commitment to pushing yourself beyond what we covered in class. You will often be asked to complete tasks that have a substantially higher degree of complexity than our in-class examples, and you will almost certainly hit a wall and feel as if you are stuck. I am writing about this here because I want you to know it is normal to be stuck and it is okay to do your best and still not completely finish the work. The course homework is designed to challenge you, but it is _also_ designed to ensure you make an excellent grade if you invest plenty of time and effort into the work. You do not have to be a prodigy to succeed; just be patient with yourself and know that the bravest and most motivated students are the ones who ask for help when they need it.  
+__A note on homework problems__: I think homework should present you with problems that require thorough understanding of the concepts covered in class and an additional commitment to pushing yourself beyond what we covered in class. You will be asked to complete hard problems in homework, some that are much harder than our in-class examples. You may hit a wall and feel as if you are stuck. I am writing about this here because I want you to know it is normal to be stuck and it is okay to do your best and still not completely finish the work. The course homework is designed to challenge you, but it is _also_ designed to ensure you make an excellent grade if you invest plenty of time and effort into the work. You do not have to be a prodigy to succeed; just be patient with yourself and know that I want you to ask me for help when you are stuck.
 
 ### Grading
 
@@ -94,11 +95,11 @@ Your final grade will be based on the following:
 
 - Homeworks: 
 
-    + 6 assignments will be given, 5 will count toward your final grade.
+    + 4 assignments will be given.
 
     + assignments are 15 points each
     
-    + homework accounts for 75% of final grade
+    + homework accounts for 60% of final grade
 
 - Final project
 
@@ -106,15 +107,17 @@ Your final grade will be based on the following:
     
     + 15 points for writeup, 5 for in-class presentation.
 
-    + accounts for 15% of final grade
+    + accounts for 20% of final grade
 
 - Class participation
 
-    + 5 points total
+    + 20 points total
     
-    + based on participation in lectures and community forum.
+    + 10 points for participation in lectures
     
-    + accounts for 5% of final grade.
+    + 10 points for participation in community forum (both for posting and responding to issues).
+    
+    + accounts for 20% of final grade.
 
 - Extra credit
 
@@ -126,16 +129,13 @@ Cumulative numerical averages of 90 - 100 are guaranteed at least an A-, 80 - 89
 
 For the homework and final exam write-ups, I will assign points based on: 
 
-- Organization (3 points)
+- Organization (10 points)
 
-- Problem approach and correct solution (10 points)
+- Correct solution (5 points)
 
-- Readability (2 points)
+Organization grades are based on the composition of your main .Rmd document and the files kept in your project directory. For example, I should be able to open your project and knit your main .Rmd file without an error. All objects you create should have reasonable names, i.e., don't name a demographics dataset `bob`, name it `data_demographics`. Your code should also be 'readable.' Readability means your code is accompanied by text that describes what the code does and why you are doing it. If you explain _why_ you are doing something (e.g., I am using the mutate function _because_..., I am merging these two datasets _because_...) and your approach makes sense, I can be very generous with partial credit. In order to make your code as readable as possible, I recommend following the [tidyverse style guide](https://style.tidyverse.org/).
 
-Organization grades are based on the composition of your main .Rmd document and the files kept in your project directory. For example, I should be able to open your project and knit your main .Rmd file without an error. I should also be able to find any relevant datasets and documents in your project directories because you have stored files in well-named locations (i.e., you store your data in a directory called ‘data’, you store any relevant R code in a directory called ‘R’, and you store results in a file called ‘results’).  
 Correctness is graded based on whether your answers match the solutions. Notably, your approach must also be correct. For instance, if the question is “what is the mean age of participants in this study?” and your answer is “the mean age is 25 years because that’s what the solution.rds file says”, you aren’t going to get any credit. Similarly, if you get the right answer but your programming approach is incorrect (e.g., the mean age is 25 years because there are 25 rows in the dataset), I will not be able to give you full credit for correctness.
-
-Readability grades are based on how much work I have to do to understand what your code is doing. This means providing comments in your code that explain _why_ you are doing something (e.g., I am using the mutate function _because_..., I am merging these two datasets _because_...). In order to make your code as readable as possible, I recommend following the [tidyverse style guide](https://style.tidyverse.org/).
 
 ### Incomplete Grades
 
@@ -160,5 +160,5 @@ Student Counseling Services offers students of all backgrounds, races, religious
 
 ### Professionalism
 
-Please refrain from texting or using your computer for anything other than coursework during class.
+Please refrain from texting or using your computer for anything other than coursework during class. Please use a web-camera if you can. It helps to see faces.
 
