@@ -43,7 +43,7 @@ This course covers the basics of R and functional programming. Learn the basics 
     <a href="https://github.com/bcjaeger" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; 
     <a href="https://twitter.com/byron_jaeger" title="Twitter"><i class="fa fa-twitter"></i></a>
     </td>
-    <td>Tuesday and Thursday 10:00 - 11:30</td>
+    <td>Tuesday and Thursday 11:00 - 12:20</td>
   </tr>
 </table>
 
