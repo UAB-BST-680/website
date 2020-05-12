@@ -533,7 +533,13 @@ markup: "html"
        </a>
     </td>
     
-    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1254461" 
+         title = "Due August 7">
+        <i class="fas fa-cogs"></i>
+      </a> 
+    </td>
+
     
   
   </tr> <tr>
