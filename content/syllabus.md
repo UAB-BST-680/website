@@ -379,9 +379,10 @@ markup: "html"
       <i class="fas fa-cloud"></i>
       </a> 
     </td>    
+    
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
-         title = "R4DS: Chap. 12.1 - 12.3">
+         title = "R4DS: Chap. 12.3 - 12.7 and all of Chap. 14">
       <i class = "fas fa-book"></i></a> 
     </td>
     
@@ -405,16 +406,22 @@ markup: "html"
     <td> Separate and unite </td>
     
     <td>  
-      <i class="fas fa-laptop"></i> 
+      <a href = "https://uab-bst-680.github.io/Lecture-08-separate_unite/#1" 
+         title = "reshape lecture">
+        <i class="fas fa-laptop"></i>
+      </a> 
     </td>
     
     <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1273603" 
+         title = "Exercises">
       <i class="fas fa-cloud"></i>
-    </td> 
+      </a> 
+    </td>
     
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
-         title = "R4DS: Chap. 12.3 - 12.7">
+         title = "R4DS: Chap. 13">
       <i class = "fas fa-book"></i></a> 
     </td>
     
@@ -451,7 +458,7 @@ markup: "html"
     
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
-         title = "R4DS: Chap. 13">
+         title = "R4DS: 21.1 - 21.6">
       <i class = "fas fa-book"></i></a> 
     </td>
     
@@ -483,7 +490,7 @@ markup: "html"
     
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
-         title = "R4DS: Chap. 21.1 - 21.6">
+         title = "R4DS: Chap. 21.7 - 21.9">
       <i class = "fas fa-book"></i></a> 
     </td>
     
@@ -513,11 +520,7 @@ markup: "html"
       <i class="fas fa-cloud"></i>
     </td> 
     
-    <td> 
-      <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
-         title = "R4DS: Chap. 21.7 - 21.9">
-      <i class = "fas fa-book"></i></a> 
-    </td>
+    <td><i class = "fas fa-book" style="color:#DDDDDD;"></i></a></td>
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 

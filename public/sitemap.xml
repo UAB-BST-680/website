@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dreamy-bartik-1e70e6.netlify.com/archives/</loc>
+    <loc>/archives/</loc>
   </url>
   
   <url>
-    <loc>https://dreamy-bartik-1e70e6.netlify.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://dreamy-bartik-1e70e6.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://dreamy-bartik-1e70e6.netlify.com/policies/</loc>
+    <loc>/policies/</loc>
   </url>
   
   <url>
-    <loc>https://dreamy-bartik-1e70e6.netlify.com/syllabus/</loc>
+    <loc>/syllabus/</loc>
   </url>
   
   <url>
-    <loc>https://dreamy-bartik-1e70e6.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
