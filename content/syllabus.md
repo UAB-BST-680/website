@@ -275,7 +275,12 @@ markup: "html"
       </a> 
     </td>
     
-    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
+    <td> 
+      <a href = "https://allisonhorst.shinyapps.io/missingexplorer/#section-introduction" 
+         title = "Answer my questions for 3 points of extra credit">
+        <i class="fab fa-leanpub"></i>
+      </a> 
+    </td>
     
     <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
     
