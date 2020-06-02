@@ -224,7 +224,7 @@ markup: "html"
     </td>
     
     <td> 
-      <a href = "https://r4ds.had.co.nz/workflow-basics.html" 
+      <a href = "https://r4ds.had.co.nz/transform.html" 
          title = "R4DS: Chap. 5">
       <i class = "fas fa-book"></i></a> 
     </td>
