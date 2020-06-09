@@ -300,7 +300,7 @@ markup: "html"
     </td>
     
     <td> 
-      <a href = "https://rstudio.cloud/spaces/15174/project/1134931" 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1101663" 
          title = "Exercises">
       <i class="fas fa-cloud"></i>
       </a> 
