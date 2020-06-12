@@ -355,7 +355,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.1" 
-         title = "Reshape data. Due June 4">
+         title = "Reshape data. Due June 25">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -393,7 +393,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.2" 
-         title = "Separate and unite. Due June 6">
+         title = "Separate and unite. Due July 2">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -469,7 +469,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 
-         title = "Intro to iteration, map, and shortcuts. Due July 21 ">
+         title = "Intro to iteration, map, and shortcuts. Due July 16 ">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
