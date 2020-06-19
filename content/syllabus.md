@@ -355,7 +355,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.1" 
-         title = "Reshape data. Due June 25">
+         title = "Reshape data. Due June 30">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -367,7 +367,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> June 25, 30 </td>
+    <td> June 30, July 2 </td>
     
     <td> Reshaping data </td>
     
@@ -393,7 +393,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.2" 
-         title = "Separate and unite. Due July 2">
+         title = "Separate and unite. Due July 7">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -406,7 +406,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 2, 7 </td>
+    <td> July 7, 9 </td>
     
     <td> Separate and unite </td>
     
@@ -449,7 +449,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 9, 14 </td>
+    <td> July 14, 16 </td>
     
     <td> Join data sets </td>
     
@@ -469,7 +469,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 
-         title = "Intro to iteration, map, and shortcuts. Due July 16 ">
+         title = "Intro to iteration, map, and shortcuts. Due July 21 ">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -481,7 +481,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 16, 21 </td>
+    <td> July 21, 23 </td>
     
     <td> Iteration, 1 variable </td>
     
@@ -501,7 +501,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 
-         title = "multiple vectors, due July 23">
+         title = "multiple vectors and list columns, due July 28">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -513,7 +513,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 23, 28 </td>
+    <td> July 28, 30 </td>
     
     <td> Iteration, >1 variable </td>
     
@@ -547,31 +547,6 @@ markup: "html"
         <i class="fas fa-cogs"></i>
       </a> 
     </td>
-
-    
-  
-  </tr> <tr>
-
-    <td> July 30 </td>
-    
-    <td> List-columns </td>
-    
-    <td>  
-      <i class="fas fa-laptop"></i> 
-    </td>
-    
-    <td> 
-      <i class="fas fa-cloud"></i>
-    </td> 
-    
-    <td><i class = "fas fa-book" style="color:#DDDDDD;"></i></a></td>
-    
-    <td><i class="fas fa-cog" style="color:#DDDDDD;"></i></td>
-    
-    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
-    
-    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
-    
   
   </tr> <tr>
 
