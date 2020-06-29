@@ -432,7 +432,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.3" 
-         title = "Join data sets. Due July 9">
+         title = "Join data sets. Due July 14">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
