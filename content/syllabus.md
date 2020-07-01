@@ -400,9 +400,12 @@ markup: "html"
     
     <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
     
-    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
-
-    
+    <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1430200" 
+         title = "Due July 14">
+        <i class="fas fa-cogs"></i>
+      </a> 
+    </td>
   
   </tr> <tr>
 
