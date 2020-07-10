@@ -409,7 +409,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 7, 9 </td>
+    <td> July 7, 9, 14 </td>
     
     <td> Separate and unite </td>
     
@@ -435,7 +435,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.3" 
-         title = "Join data sets. Due July 14">
+         title = "Join data sets. Due July 16">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -452,7 +452,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 14, 16 </td>
+    <td> July 16, 21 </td>
     
     <td> Join data sets </td>
     
@@ -472,7 +472,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 
-         title = "Intro to iteration, map, and shortcuts. Due July 21 ">
+         title = "Intro to iteration, map, and shortcuts. Due July 23 ">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -484,9 +484,9 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 21, 23 </td>
+    <td> July 23, 28, 30 </td>
     
-    <td> Iteration, 1 variable </td>
+    <td> Iteration </td>
     
     <td>  
       <i class="fas fa-laptop"></i> 
@@ -505,34 +505,6 @@ markup: "html"
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 
          title = "multiple vectors and list columns, due July 28">
-        <i class="fas fa-cog"></i>
-      </a> 
-    </td>
-    
-    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"> </i> </td>
-    
-    <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
-    
-  
-  </tr> <tr>
-
-    <td> July 28, 30 </td>
-    
-    <td> Iteration, >1 variable </td>
-    
-    <td>  
-      <i class="fas fa-laptop"></i> 
-    </td>
-    
-    <td> 
-      <i class="fas fa-cloud"></i>
-    </td> 
-    
-    <td><i class = "fas fa-book" style="color:#DDDDDD;"></i></a></td>
-    
-    <td> 
-      <a href = "https://rstudio.cloud/learn/primers/5" 
-         title = "List columns, due July 30">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
