@@ -4,6 +4,7 @@ markup: "html"
 ---
 
 <style>
+
 #syllabus_tbl {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -14,8 +15,6 @@ markup: "html"
   border-bottom: 1px solid #ccc;
   padding: 8px;
 }
-
-
 
 #syllabus_tbl tr:nth-child(even){background-color: #f2f2f2;}
 
@@ -496,13 +495,19 @@ markup: "html"
     <td> Iteration </td>
     
     <td>  
-      <i class="fas fa-laptop"></i> 
+      <a href = "https://bcjaeger.github.io/Lecture-10-iteration/" 
+         title = "joining data lecture">
+        <i class="fas fa-laptop"></i>
+      </a> 
     </td>
     
     <td> 
+      <a href = "https://rstudio.cloud/spaces/15174/project/1490852" 
+         title = "Exercises">
       <i class="fas fa-cloud"></i>
-    </td> 
-    
+      </a> 
+    </td>
+
     <td> 
       <a href = "https://r4ds.had.co.nz/workflow-projects.html" 
          title = "R4DS: Chap. 21.7 - 21.9">
@@ -532,7 +537,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> August 4, 7 </td>
+    <td> August 4, 6 </td>
     
     <td> Final project presentations </td>
     
@@ -558,3 +563,8 @@ markup: "html"
   
 </table>
 
+
+
+
+
+  
