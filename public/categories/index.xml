@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BST 680: Introduction to R</title>
-    <link>/categories/</link>
+    <link>https://dreamy-bartik-1e70e6.netlify.com/categories/</link>
     <description>Recent content in Categories on BST 680: Introduction to R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dreamy-bartik-1e70e6.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

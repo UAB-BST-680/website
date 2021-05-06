@@ -31,7 +31,7 @@ This course covers the basics of R and functional programming. Learn the basics 
 
 <font color="#006341"><i class="far fa-comment-alt"></i></font> &nbsp; We will meet twice weekly using Zoom. Send me an e-mail for a link </br> </br>
 
-<font color="#006341"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Lecture times: Tuesday and Thursday 11:00 - 12:20
+<font color="#006341"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Lecture times: Tuesday and Thursday 2:00 - 3:20
 
 <h3> Instructor and office hours </h3> 
 
