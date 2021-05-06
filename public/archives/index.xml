@@ -5,10 +5,6 @@
     <link>https://dreamy-bartik-1e70e6.netlify.com/archives/</link>
     <description>Recent content in Archives on BST 680: Introduction to R</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://dreamy-bartik-1e70e6.netlify.com/archives/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://dreamy-bartik-1e70e6.netlify.com/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
