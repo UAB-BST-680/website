@@ -85,7 +85,7 @@ markup: "html"
     
   </tr> <tr>
   
-    <td> May 12 </td>
+    <td> May 11 </td>
     
     <td> Welcome to BST 680 </td>
     
