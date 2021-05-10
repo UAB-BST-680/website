@@ -347,7 +347,7 @@ markup: "html"
     
     <td> Data visualization tools </td>
     
-    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-06-visualization_tools/#1" 
@@ -386,7 +386,7 @@ markup: "html"
     
     <td> Reshaping data </td>
     
-    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/lecture-07-reshaping_data/#1" 
@@ -475,8 +475,7 @@ markup: "html"
     
     <td> Join data sets </td>
     
-    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
-    
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>    
 
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-09-join/#1" 
@@ -516,7 +515,7 @@ markup: "html"
     
     <td> Iteration </td>
     
-    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://bcjaeger.github.io/Lecture-10-iteration/" 
