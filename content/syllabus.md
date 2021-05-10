@@ -216,7 +216,7 @@ markup: "html"
     
     <td> Programming basics </td>
     
-    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-03-Programming_basics/#1" 
@@ -303,7 +303,7 @@ markup: "html"
 
     <td> Transforming data </td>
     
-    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-05-Transforming_data/#1" 
@@ -430,7 +430,7 @@ markup: "html"
     
     <td> Separate and unite </td>
     
-    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-08-separate_unite/#1" 
