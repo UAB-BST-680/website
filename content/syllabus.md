@@ -40,12 +40,12 @@ markup: "html"
 
   <tr>
   
-    <th style="border-bottom:hidden" colspan="2" </th>
+    <th style="border-bottom:hidden" colspan="3" </th>
   
     <th style = "border-bottom: hidden; 
-                 padding-bottom:0; 
-                 padding-left:3px; 
-                 padding-right:3px; 
+                 padding-bottom: 0; 
+                 padding-left: 3px; 
+                 padding-right: 3px; 
                  text-align: center;" 
                  colspan = "2">
       <div style="border-bottom: 1px solid #ddd; padding-bottom: 5px;">
@@ -70,6 +70,8 @@ markup: "html"
     
     <th> Topic </th>
     
+    <th> Zoom lab </th>
+    
     <th> Slides  </th>
     
     <th> R </th>
@@ -80,7 +82,6 @@ markup: "html"
     
     <th> Tutorial </th>
     
-    
     <th> Homework </th>
     
   </tr> <tr>
@@ -88,6 +89,8 @@ markup: "html"
     <td> May 11 </td>
     
     <td> Welcome to BST 680 </td>
+    
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-00-Welcome/#1" 
@@ -122,6 +125,8 @@ markup: "html"
     <td> May 14, 19 </td>
     
     <td> R, Rstudio and RMarkdown </td>
+    
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-01-tools/#1" 
@@ -161,6 +166,8 @@ markup: "html"
     <td> May 21, 26 </td>
     
     <td> Data visualization basics </td>
+    
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-02-Data_visualization_basics/#1" 
@@ -209,6 +216,8 @@ markup: "html"
     
     <td> Programming basics </td>
     
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-03-Programming_basics/#1" 
          title = "ggplot2 lecture">
@@ -246,6 +255,8 @@ markup: "html"
     <td> June 4, 9 </td>
     
     <td> Isolating data </td>
+    
+    <td> <i class="fas fa-check" style="color:#1E6B52;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-04-Isolating_data/#1" 
@@ -288,9 +299,11 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> June 11, 16 </td>
+    <td> June 11, 13 </td>
     
     <td> Transforming data </td>
+    
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-05-Transforming_data/#1" 
@@ -334,6 +347,8 @@ markup: "html"
     
     <td> Data visualization tools </td>
     
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-06-visualization_tools/#1" 
          title = "ggplot2 lecture 2">
@@ -370,6 +385,8 @@ markup: "html"
     <td> June 30, July 2 </td>
     
     <td> Reshaping data </td>
+    
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/lecture-07-reshaping_data/#1" 
@@ -412,6 +429,8 @@ markup: "html"
     <td> July 7, 9, 14 </td>
     
     <td> Separate and unite </td>
+    
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
     
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-08-separate_unite/#1" 
@@ -456,6 +475,8 @@ markup: "html"
     
     <td> Join data sets </td>
     
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
+    
 
     <td>  
       <a href = "https://uab-bst-680.github.io/Lecture-09-join/#1" 
@@ -494,6 +515,8 @@ markup: "html"
     <td> July 23, 28, 30 </td>
     
     <td> Iteration </td>
+    
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
     
     <td>  
       <a href = "https://bcjaeger.github.io/Lecture-10-iteration/" 
@@ -541,6 +564,8 @@ markup: "html"
     <td> August 4, 6 </td>
     
     <td> Final project presentations </td>
+    
+    <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
     
     <td>  
       <i class="fas fa-laptop"></i> 
