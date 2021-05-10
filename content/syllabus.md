@@ -122,7 +122,7 @@ markup: "html"
     
   </tr> <tr>
   
-    <td> May 14, 19 </td>
+    <td> May 13, 18 </td>
     
     <td> R, Rstudio and RMarkdown </td>
     
@@ -163,7 +163,7 @@ markup: "html"
     
   </tr>  <tr>
   
-    <td> May 21, 26 </td>
+    <td> May 20, 25 </td>
     
     <td> Data visualization basics </td>
     
@@ -212,7 +212,7 @@ markup: "html"
     
   </tr> <tr>
   
-    <td> May 28, June 2 </td>
+    <td> May 27, June 1 </td>
     
     <td> Programming basics </td>
     
@@ -252,7 +252,7 @@ markup: "html"
     
   </tr> <tr>
 
-    <td> June 4, 9 </td>
+    <td> June 3, 8 </td>
     
     <td> Isolating data </td>
     
@@ -299,8 +299,8 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> June 11, 13 </td>
-    
+    <td> June 10, 15 </td>
+
     <td> Transforming data </td>
     
     <td> <i class="fas fa-check" style="color:#DDDDDD;"></i> </td>
@@ -343,7 +343,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> June 18, 23 </td>
+    <td> June 17, 22 </td>
     
     <td> Data visualization tools </td>
     
@@ -382,7 +382,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> June 30, July 2 </td>
+    <td> June 29, July 1 </td>
     
     <td> Reshaping data </td>
     
@@ -426,7 +426,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 7, 9, 14 </td>
+    <td> July 6, 8, 13 </td>
     
     <td> Separate and unite </td>
     
@@ -471,7 +471,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 16, 21 </td>
+    <td> July 15, 20 </td>
     
     <td> Join data sets </td>
     
@@ -512,7 +512,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> July 23, 28, 30 </td>
+    <td> July 22, 27, 29 </td>
     
     <td> Iteration </td>
     
@@ -561,7 +561,7 @@ markup: "html"
   
   </tr> <tr>
 
-    <td> August 4, 6 </td>
+    <td> August 3, 5 </td>
     
     <td> Final project presentations </td>
     
