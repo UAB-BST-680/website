@@ -35,6 +35,10 @@ markup: "html"
 
 </style>
 
+Each unit of the class is a row in the table below. Some units are 1 class period, others are 2 or 3. Each unit will begin with a lecture, which will be in class. After the lecture, if there is a check mark in the "Lab" column, then remaining class periods in the given unit will be interactive labs where groups of 2-3 students work together. To prevent having group members within 3 feet of each other, labs will be held on Zoom.
+
+<br>
+<br>
 
 <table id="syllabus_tbl">
 
@@ -70,7 +74,7 @@ markup: "html"
     
     <th> Topic </th>
     
-    <th> Zoom lab </th>
+    <th> Lab </th>
     
     <th> Slides  </th>
     
@@ -110,12 +114,7 @@ markup: "html"
     
     <td> <i class="fas fa-cog" style="color:#DDDDDD;"></i> </td>
     
-    <td> 
-      <a href = "https://rstudio.cloud/spaces/15174/project/1086303" 
-         title = "Screenshot of completion due May 14">
-        <i class="fab fa-leanpub"></i>
-       </a>
-    </td>
+    <td> <i class="fab fa-leanpub" style="color:#DDDDDD;"></i> </td>
     
     <td> <i class="fas fa-cogs" style="color:#DDDDDD;"></i> </td>
     
@@ -152,7 +151,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/1.1" 
-         title = "Data visualization basics. Due May 19">
+         title = "Data visualization basics. Due May 20">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -191,7 +190,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/1.2" 
-         title = "Programming basics. Due May 28">
+         title = "Programming basics. Due May 27">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -205,7 +204,7 @@ markup: "html"
 
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1091967" 
-         title = "Due on June 4">
+         title = "Due on June 3">
         <i class="fas fa-cogs"></i>
       </a> 
     </td> 
@@ -240,7 +239,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/2.1" 
-         title = "Working with data, Isolating data with dplyr. Due June 4">
+         title = "Working with data, Isolating data with dplyr. Due June 3">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -281,7 +280,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/2.3" 
-         title = "Derive Information with dplyr. Due June 11">
+         title = "Derive Information with dplyr. Due June 10">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -327,7 +326,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/3" 
-         title = "Visualize data - ALL modules. Due June 23">
+         title = "Visualize data - ALL modules. Due June 22">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -336,7 +335,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1110029" 
-         title = "Due June 30">
+         title = "Due June 29">
         <i class="fas fa-cogs"></i>
       </a> 
     </td>
@@ -370,7 +369,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.1" 
-         title = "Reshape data. Due June 30">
+         title = "Reshape data. Due June 29">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -410,7 +409,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.2" 
-         title = "Separate and unite. Due July 7">
+         title = "Separate and unite. Due July 6">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -419,7 +418,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1430200" 
-         title = "Due July 14">
+         title = "Due July 15">
         <i class="fas fa-cogs"></i>
       </a> 
     </td>
@@ -454,7 +453,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/4.3" 
-         title = "Join data sets. Due July 16">
+         title = "Join data sets. Due July 15">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -463,7 +462,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1172856" 
-         title = "Due July 21">
+         title = "Due July 22">
         <i class="fas fa-cogs"></i>
       </a> 
     </td>
@@ -499,7 +498,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 
-         title = "Intro to iteration, map, and shortcuts. Due July 23 ">
+         title = "Intro to iteration, map, and shortcuts. Due July 22 ">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -539,7 +538,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/learn/primers/5" 
-         title = "multiple vectors and list columns, due July 28">
+         title = "multiple vectors and list columns, due July 29">
         <i class="fas fa-cog"></i>
       </a> 
     </td>
@@ -553,7 +552,7 @@ markup: "html"
     
     <td> 
       <a href = "https://rstudio.cloud/spaces/15174/project/1254461" 
-         title = "Due August 7">
+         title = "Due August 3">
         <i class="fas fa-cogs"></i>
       </a> 
     </td>
